@@ -6,3 +6,7 @@ This is a fork of [PHP MySQL Login System](https://www.tutorialrepublic.com/php-
 
 ## Language
 This code uses ![](https://flat.badgen.net/badge/language/PHP/green)
+
+## Recent Changes
+* Added Font Awesome
+* Added some Icons

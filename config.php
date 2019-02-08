@@ -1,4 +1,5 @@
 <?php
+/* Make sure you back this file up incase you mess something up. */
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'localhost');

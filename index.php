@@ -97,6 +97,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
   <link rel="stylesheet" href="/css/w3.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style type="text/css">
         body{ font: 14px sans-serif; background-color: transparent; }
         .wrapper{ width: 350px; padding: 20px; }
@@ -104,7 +105,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 </head>
 <body>
     <div class="w3-animate-top">
-        <h2>Login</h2>
+        <h2><i class="fa fa-sign-in" aria-hidden="true"></i> Login</h2>
         <?php
         $fname=$_SERVER['DOCUMENT_ROOT'] . "/user/code/" . basename($_GET['action']) . ".php";
         include($fname);
