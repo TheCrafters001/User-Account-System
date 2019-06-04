@@ -31,21 +31,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <hr />
     <!-- All your content below this line -->
     <p>Your Content Is Here</p>
-<script>
-function openPage(evt, pageName) {
-  var i, x, tablinks;
-  x = document.getElementsByClassName("page");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablink");
-  for (i = 0; i < x.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" w3-green", "");
-  }
-  document.getElementById(pageName).style.display = "block";
-  evt.currentTarget.className += " w3-green";
-}
-</script>
+
 
 </body>
 </html>
