@@ -2,7 +2,7 @@
 A simple user account system. Using PHP, HTML, and W3.CSS.
 
 ## Notice
-This project has been discontenued. It will no longer recived updates.
+This project has been discontenued. It is no longer receiving updates from me.
 
 ## Information
 This is a fork of [PHP MySQL Login System](https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php) by [Tutorial Republic](https://www.tutorialrepublic.com/). This project uses W3.CSS and that is a free CSS Framework by W3Schools. This website us under the [![](https://flat.badgen.net/badge/license/GNU%20GPL%20V3/orange)](https://github.com/TheCrafters001/User-Account-System/blob/master/LICENSE)
